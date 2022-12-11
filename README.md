@@ -18,7 +18,7 @@ challenging myself with security and Linux tasks, and I have been making my way 
 learning and improving my skills.
 ```
 If you want to get in touch with me, you can find me on
-Discord : **780905552381214780**
+Discord : **780905552381214780** <br>
 Twitter : **0161dun**
 
 
