@@ -19,8 +19,8 @@ learning and improving my skills.
 ```
 If you want to get in touch with me, you can find me on
 ```csharp
-Discord : `780905552381214780`
-Twitter : `0161dun`.
+Discord : 780905552381214780
+Twitter : 0161dun.
 ```
 
 *Read me generated via [OpenAI]([https://link-url-here.org](https://chat.openai.com/chat)) (3 inputs)*
