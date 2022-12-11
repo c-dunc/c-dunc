@@ -1,8 +1,8 @@
-```zsh
+```
 > cat README.md
 ```
 
-```csharp
+```
 cs on Nord
 ----------------
 
