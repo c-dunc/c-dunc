@@ -17,7 +17,7 @@ learning  and looking for ways to improve my skills. I am also an avid boxer and
 challenging myself with security and Linux tasks, and I have been making my way through the rooms on Tryhackme, constantly 
 learning and improving my skills.
 ```
-If you want to get in touch with me, you can find me on
+If you want to get in touch with me, you can find me on<br>
 Discord : **780905552381214780** <br>
 Twitter : **0161dun**
 
