@@ -22,4 +22,4 @@ Discord : **780905552381214780** <br>
 Twitter : **0161dun**
 
 
-Read me generated via [OpenAI]([https://link-url-here.org](https://chat.openai.com/chat)) (3 inputs)
+Read me generated via [OpenAI]([https://link-url-here.org](https://chat.openai.com/chat) (3 inputs)
