@@ -1,7 +1,16 @@
+> cat README.md
+```
 # cs/csduncan 🦍
 
+```
+cs on Nord
+----------------
 Linux, Programming, Security
 
-![github stats](https://github-readme-stats.vercel.app/api?username=csduncan06&theme=dracula&show_icons=true&include_all_commits=true&count_private=true&hide=contribs)
+If you want to get in touch with me, you can find me on<br>
+Discord : **780905552381214780** <br>
+THM.....: Wuu
+
+```
 <br>
 ![tryhackmestats](https://tryhackme-badges.s3.amazonaws.com/wuu.png)
