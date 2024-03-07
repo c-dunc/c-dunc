@@ -1,3 +1,1 @@
-![github stats](https://github-readme-stats.vercel.app/api?username=csduncan06&theme=dracula&show_icons=true)
-<br>
-![thm](https://tryhackme-badges.s3.amazonaws.com/Checksum256.png)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=csduncan06&theme=tokyonight)](https://git.io/streak-stats)
