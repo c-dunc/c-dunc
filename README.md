@@ -1,4 +1,4 @@
-<h1 align="center">CD</h1>
+<center><img src="https://i.ibb.co/JFrhbYXd/cropped-circle-image.png"></center>
 <h3 align="center"><a href="url">callumduncan.dev</a></h3>
 
 ## 🙋 About me
