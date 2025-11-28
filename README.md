@@ -1,5 +1,9 @@
-<center><img src="https://i.ibb.co/JFrhbYXd/cropped-circle-image.png"></center>
-<h3 align="center"><a href="url">callumduncan.dev</a></h3>
+<p align="center">
+  <img src="https://i.ibb.co/JFrhbYXd/cropped-circle-image.png" alt="Profile" width="150">
+</p>
+<p align="center">
+  <a href="https://callumduncan.dev">callumduncan.dev</a>
+</p>
 
 ## 🙋 About me
 Security Analyst with a focus on incident analysis and triage using Microsoft Sentinel, Defender XDR, Google SecOps and Carbon Black.
